@@ -59,6 +59,6 @@ Sample segmentation results are visualized in the notebook.
 
 ## Future Work
 
-- Experiment with other architectures (e.g. U-Net++)
+- Experiment with other architectures
 - Implement additional data augmentation
 - Explore multi-class segmentation for different tumor types
